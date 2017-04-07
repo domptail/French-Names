@@ -7,7 +7,7 @@ The file contains four features:
 - gender,
 - first name,
 - year of birth, between 1900 and 2015,
-- number of people born for given gender, name, and year of birth. 
+- number of people born with given name, gender, and year of birth. 
 
 There are 589,411 entries (rows) in the dataset, corresponding to almost 83 million people born between 1900 and 2015.
 
