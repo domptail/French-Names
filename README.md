@@ -1,4 +1,4 @@
-# French names
+# French Names
 This is a short analysis of French first names between 1900 and 2015 using Python 3.
 
 The database can be downloaded from INSEE's website at: https://www.insee.fr/fr/statistiques/2540004#consulter
