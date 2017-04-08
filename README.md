@@ -1,15 +1,15 @@
 # French names
-Analysis of French first names between 1900 and 2015 (Python)
+This is a short analysis of French first names between 1900 and 2015 using Python 3.
 
-Using INSEE files available at: https://www.insee.fr/fr/statistiques/2540004#consulter
+The database can be downloaded from INSEE's website at: https://www.insee.fr/fr/statistiques/2540004#consulter
 
-The file contains four features:
+It contains four features:
 - gender,
 - first name,
 - year of birth, between 1900 and 2015,
 - number of people born with given name, gender, and year of birth. 
 
-There are 589,411 entries (rows) in the dataset, corresponding to almost 83 million people born between 1900 and 2015.
+There are 589,411 entries, corresponding to almost 83 million people, and over 31,000 unique names.
 
 ## Part 1:
 
