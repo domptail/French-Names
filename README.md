@@ -23,3 +23,5 @@ There are 589,411 entries, corresponding to almost 83 million people, and over 3
 - Gender of names: Some names can be both male and female (e.g., Camille, Dominique, Valérie). Study the evolution over time of the gender of some names (percentage of males vs. females).
 - Impact of movies: Some correlations with movies/books (characters/actors) were shown anecdotically with some names (e.g., M, Arya, Daenerys). A more thorough analysis could be conducted using for example IMDb database.
 - Regional specificities: Study the differences between France's regions. A file with regional information is available on INSEE's website. See for example the analysis done by Le Monde: http://www.lemonde.fr/les-decodeurs/article/2014/04/29/la-carte-des-prenoms-les-plus-donnes-en-france_4408677_4355770.html
+- Evolution curves: Classify the different types of evolution curves.
+- Types of names: Identify clusters of names, for example names ending in '-ette' (e.g., Paulette, Georgette) in 1920-1940, and '-iane' (e.g., Josiane, Viviane) in 1940-1960. Cf. Philippe Besnard's research.
