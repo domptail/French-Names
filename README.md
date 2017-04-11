@@ -17,7 +17,8 @@ There are 589,411 entries, corresponding to almost 83 million people, and over 3
 1. Most common names in 2015 and overall between 1900 and 2015
 2. Evolution of some specific names throughout the years
 3. Evolution of the number of different names
-4. Evolution of the length of names
+4. Name trends
+5. Evolution of the length of names
 
 ## Potential future analysis:
 - Gender of names: Some names can be both male and female (e.g., Camille, Dominique, Valérie). Study the evolution over time of the gender of some names (percentage of males vs. females).
