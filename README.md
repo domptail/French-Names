@@ -30,6 +30,5 @@ A short article summarizing the main results is also available on my GitHub page
 - Impact of movies: Some correlations with movies/books (characters/actors) were shown anecdotally with some names (e.g., M, Arya, Daenerys). A more thorough analysis could be conducted using for example IMDb database.
 - Regional specificities: Study the differences/similarities between France's regions. A file with regional information is available on INSEE's website. See for example the analysis done by Le Monde: http://www.lemonde.fr/les-decodeurs/article/2014/04/29/la-carte-des-prenoms-les-plus-donnes-en-france_4408677_4355770.html
 - Evolution curves: Classify the different types of evolution curves.
-- Regional specificities: A more detailed analysis could show differences/similarities between France's regions. A file with regional information is available on INSEE's website. See for example the analysis done by Le Monde.
 - Soundex: The Soundex phonetic algorithm could be used to complete the analysis based on ngrams and identify homophone names. 
 
