@@ -4,7 +4,7 @@ This is an analysis of first names in France between 1900 and 2015 using Python 
 
 This is not a sociological study of names as there is no information on education, income, religion, etc. 
 
-The database can be downloaded from INSEE's website at: https://www.insee.fr/fr/statistiques/2540004#consulter
+The database can be downloaded from INSEE's [website](https://www.insee.fr/fr/statistiques/2540004#consulter).
 
 It contains four features:
 - gender,
