@@ -29,7 +29,7 @@ The purpose of this project was to learn a toolset to manipulate and visualize d
 This is a personal project to practice programming so all the data manipulation and most of the visualization was done in Python 3.6. The treemaps were prepared using Microsoft visualization software Power BI. Throughout the project, I practiced data manipulation (pandas dataframe), data visualization (pyplot), and some natural language processing (nltk, ngrams).
 There are still many possible improvements to the code (e.g., factoring). However, since the code is only used for a ‘one-time’ analysis, and not to be used repeatedly, full optimization might not be necessary. 
 
-The code and graphs are available on my GitHub page (Jupyter notebook).
+The code and graphs are available on my GitHub [page](https://github.com/domptail) (Jupyter [notebook](https://github.com/domptail/French-Names/blob/master/French%20Names%20from%201900%20to%202015.ipynb)).
 
 ## Results
 
@@ -43,6 +43,8 @@ We can use the data to estimate the annual number of births in France between 19
 - the Baby Boom after WWII, from 592,000 births in 1945 up to 893,000 in 1947 (+51% in 2 years)!
 
 The diminution in birth rate is indeed another consequence of wars which dramatically affects demography. Note that WWI was far more devastating to France than WWII both in terms of number of births and deaths. The country lost about 600k soldiers and civilians in WWII but 1.7 million in WWI. In the overall conflicts however, there were 3-4 times more losses in WWII (60-80M) than in WWI (19M). 
+
+<div style="text-align:center"><img src ="https://cloud.githubusercontent.com/assets/25837658/25573861/f5803ffe-2dfd-11e7-95a8-1f417d7102ec.PNG" /></div>
 
 <center>
 ![Alt text](https://cloud.githubusercontent.com/assets/25837658/25573861/f5803ffe-2dfd-11e7-95a8-1f417d7102ec.PNG?raw=true "Number of births per year")
