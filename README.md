@@ -32,7 +32,7 @@ The code and graphs are available on my GitHub page (Jupyter [notebook](https://
 5. Name trends
 6. Evolution of the length of names
 
-An article summarizing the main results is available on my GitHub page [md file](https://github.com/domptail/French-Names/blob/master/Summary%20of%20Results.md).
+An article summarizing the main results is available on my GitHub page [md file](https://github.com/domptail/French-Names/blob/master/French%20Names%20-%20Results%20Summary.md).
 
 ## Potential future analysis:
 - Gender of names: Some names can be both male and female (e.g., Camille, Dominique). It would be interesting to study the evolution over time of the gender of some names (percentage of males vs. females).
