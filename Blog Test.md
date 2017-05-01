@@ -46,9 +46,17 @@ The diminution in birth rate is indeed another consequence of wars which dramati
 
 <div style="text-align:center"><img src ="https://cloud.githubusercontent.com/assets/25837658/25573861/f5803ffe-2dfd-11e7-95a8-1f417d7102ec.PNG" /></div>
 
-<center>
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="https://cloud.githubusercontent.com/assets/25837658/25573861/f5803ffe-2dfd-11e7-95a8-1f417d7102ec.PNG">
+</p>
+
 ![Alt text](https://cloud.githubusercontent.com/assets/25837658/25573861/f5803ffe-2dfd-11e7-95a8-1f417d7102ec.PNG?raw=true "Number of births per year")
-</center>
+
 
 The repercussions of the two wars can be seen on the number of people named Marie and Jean, the two most given names overall throughout the century by far (2.2 million Maries and 1.9 million Jeans). We can control for the effects of the wars by calculating instead the percentage of births of the same gender these names represent each year. It is interesting to see that Marie and Jean have had very different popularity trends.
 
