@@ -1,4 +1,5 @@
-# AN ANALYSIS OF FIRST NAMES IN FRANCE BETWEEN 1900 AND 2015
+# AN ANALYSIS OF FIRST NAMES IN FRANCE 
+# BETWEEN 1900 AND 2015
 
 ## Introduction
 
@@ -46,18 +47,22 @@ The diminution in birth rate is indeed another consequence of wars which dramati
 
 <p align="center">
   <b>Number of births per year</b><br>
+  <br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573861/f5803ffe-2dfd-11e7-95a8-1f417d7102ec.PNG">
 </p>
 
 The repercussions of the two wars can be seen on the number of people named Marie and Jean, the two most given names overall throughout the century by far (2.2 million Maries and 1.9 million Jeans). We can control for the effects of the wars by calculating instead the percentage of births of the same gender these names represent each year. It is interesting to see that Marie and Jean have had very different popularity trends.
 
 <p align="center">
-  <b>Trend of the two most popular names overall Marie and Jean - In number of people</b><br>
+  <b>Trend of the two most popular names overall Marie and Jean</b><br>
+  <br>
+  <i>In number of people</i><br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573856/f57a85e6-2dfd-11e7-8fbe-72d1b29af3d2.PNG">
 </p>
 
 <p align="center">
-  <b>Trend of the two most popular names overall Marie and Jean - In percentage of male and female births respectively</b><br>
+  <i>In percentage of male and female births respectively</i><br>
+  <br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573860/f57bf480-2dfd-11e7-9d9f-d5199a98a6a2.PNG">
 </p>
 
