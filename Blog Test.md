@@ -26,7 +26,9 @@ There are 589,411 entries, corresponding to almost 83 million people, and over 3
 
 The purpose of this project was to learn a toolset to manipulate and visualize data, not necessarily to do in-depth analysis on said data.
 
-This is a personal project to practice programming so all the data manipulation and most of the visualization was done in Python 3.6. The treemaps were prepared using Microsoft visualization software Power BI. Throughout the project, I practiced data manipulation (pandas dataframe), data visualization (pyplot), and some natural language processing (nltk, ngrams).
+This is a personal project to practice programming so all the data manipulation and most of the visualization was done in Python 3.6. The treemaps were prepared using Microsoft visualization software Power BI. 
+
+Throughout the project, I practiced data manipulation (pandas dataframe), data visualization (pyplot), and some natural language processing (nltk, ngrams).
 
 There are still many possible improvements to the code (e.g., factoring). However, since the code is only used for a ‘one-time’ analysis, and not to be used repeatedly, full optimization might not be necessary. 
 
