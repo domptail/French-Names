@@ -21,7 +21,7 @@ This is a personal project to practice programming so all the data manipulation 
 
 There are still many possible improvements to the code (e.g., factoring). However, since the code is only used for a ‘one-time’ analysis, and not to be used repeatedly, full optimization might not be necessary. 
 
-The code and graphs are available on my GitHub page (Jupyter [notebook](https://github.com/domptail/French-Names/blob/master/French%20Names%20from%201900%20to%202015.ipynb)).
+The code and graphs are available on my GitHub page (Jupyter [notebook](https://github.com/domptail/French-Names/blob/master/French%20Names%20-%20Python%20Code.ipynb)).
 
 ## Content:
 
@@ -32,7 +32,7 @@ The code and graphs are available on my GitHub page (Jupyter [notebook](https://
 5. Name trends
 6. Evolution of the length of names
 
-An article summarizing the main results is available on my GitHub page [md file](https://github.com/domptail/French-Names/blob/master/Summary%20of%20Results.md) or [PDF file](https://github.com/domptail/French-Names/blob/master/French%20Names%20from%201900%20to%202015.pdf).
+An article summarizing the main results is available on my GitHub page [md file](https://github.com/domptail/French-Names/blob/master/Summary%20of%20Results.md).
 
 ## Potential future analysis:
 - Gender of names: Some names can be both male and female (e.g., Camille, Dominique). It would be interesting to study the evolution over time of the gender of some names (percentage of males vs. females).
