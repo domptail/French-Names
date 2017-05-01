@@ -144,7 +144,7 @@ Treemaps are yet another clear way to picture the increasing name diversity. Hal
 
 
 ### Similar types of names are popular at the same time
-In general, both male and female compound names were most popular between 1940 and 1965. Note that most compound names were composed of the names Jean and Marie respectively! 
+In general, both male and female compound names were most popular between 1940 and 1965. Note that most compound names with at least 10,000 people in total since 1900 were composed of the names Jean and Marie respectively! 
 
 In the following graphs each line represent at least 10,000 births overall.
 
