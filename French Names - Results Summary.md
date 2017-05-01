@@ -161,7 +161,7 @@ In the following graphs each line represent at least 10,000 births overall.
 </p>
 
   
-Interestingly, we can observe common trends for other types of names (data not included, see Jupyter [notebook](https://github.com/domptail/French-Names/blob/master/French%20Names%20from%201900%20to%202015.ipynb)):
+Interestingly, we can observe common trends for other types of names (data not included, see Jupyter [notebook](https://github.com/domptail/French-Names/blob/master/French%20Names%20-%20Python%20Code.ipynb)):
 - Names ending in -ETTE (e.g., Paulette, Yvette, Odette, Colette) were most popular in 1920-1940.
 - Names ending in -IANE (e.g., Christiane, Josiane, Liliane) were most popular in 1940-1960.
 - Names containing 'CLAUD' (e.g., Claude, Jean-Claude, Claudine) were most popular in 1930-1960.
