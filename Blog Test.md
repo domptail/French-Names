@@ -44,19 +44,11 @@ We can use the data to estimate the annual number of births in France between 19
 
 The diminution in birth rate is indeed another consequence of wars which dramatically affects demography. Note that WWI was far more devastating to France than WWII both in terms of number of births and deaths. The country lost about 600k soldiers and civilians in WWII but 1.7 million in WWI. In the overall conflicts however, there were 3-4 times more losses in WWII (60-80M) than in WWI (19M). 
 
-<div style="text-align:center"><img src ="https://cloud.githubusercontent.com/assets/25837658/25573861/f5803ffe-2dfd-11e7-95a8-1f417d7102ec.PNG" /></div>
-
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <b>Number of births per year</b><br>
   <br><br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573861/f5803ffe-2dfd-11e7-95a8-1f417d7102ec.PNG">
 </p>
-
-![Alt text](https://cloud.githubusercontent.com/assets/25837658/25573861/f5803ffe-2dfd-11e7-95a8-1f417d7102ec.PNG?raw=true "Number of births per year")
-
 
 The repercussions of the two wars can be seen on the number of people named Marie and Jean, the two most given names overall throughout the century by far (2.2 million Maries and 1.9 million Jeans). We can control for the effects of the wars by calculating instead the percentage of births of the same gender these names represent each year. It is interesting to see that Marie and Jean have had very different popularity trends.
 
