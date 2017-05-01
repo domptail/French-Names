@@ -1,4 +1,4 @@
-# AN ANALYSIS OF FIRST NAMES IN FRANCE                                        BETWEEN 1900 AND 2015
+# AN ANALYSIS OF FIRST NAMES IN FRANCE IN 1900-2015
 
 ## Introduction
 
@@ -128,12 +128,12 @@ Treemaps are yet another clear way to picture the increasing name diversity. Hal
 <p align="center">
   <b>Treemaps of names representing 50% of births in 1900</b><br>
   <br>
+  <i>In 1900</i><br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573862/f59153a2-2dfd-11e7-98c3-68864dce05e2.PNG">
 </p>
 
 <p align="center">
-  <b>Treemaps of names representing 50% of births in 2015</b><br>
-  <br>
+  <i>In 2015</i><br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573863/f592af4a-2dfd-11e7-9292-4502b741469c.PNG">
 </p>
 
@@ -146,7 +146,7 @@ In the following graphs each line represent at least 10,000 births overall.
 <p align="center">
   <b>Trend of compound names</b><br>
   <br>
-  <i>Males</i>
+  <i>Males</i><br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573852/f5634642-2dfd-11e7-955e-12f577941775.PNG">
 </p>
 
@@ -183,7 +183,7 @@ The top 15 names in 2015 comprised both ‘old’ names becoming popular again (
 
 <p align="center">
   <i>'Recent' names</i><br>
-  <img src="https://cloud.githubusercontent.com/assets/25837658/25573857/f57b4d0a-2dfd-11e7-84d3-ced646b6fb6b.PNG">
+  <img src="https://cloud.githubusercontent.com/assets/25837658/25573548/5346a888-2dfb-11e7-82b5-dc94f73128f8.PNG">
 </p>
  
 ### Popular names are on average shorter than in the past
