@@ -1,5 +1,4 @@
-# AN ANALYSIS OF FIRST NAMES IN FRANCE 
-# BETWEEN 1900 AND 2015
+# AN ANALYSIS OF FIRST NAMES IN FRANCE                                        BETWEEN 1900 AND 2015
 
 ## Introduction
 
@@ -62,7 +61,6 @@ The repercussions of the two wars can be seen on the number of people named Mari
 
 <p align="center">
   <i>In percentage of male and female births respectively</i><br>
-  <br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573860/f57bf480-2dfd-11e7-9d9f-d5199a98a6a2.PNG">
 </p>
 
@@ -82,6 +80,7 @@ The trend of the name Kim is probably correlated to the following events:
                 
 <p align="center">
   <b>Trend of the name Kim</b><br>
+  <br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573855/f56543a2-2dfd-11e7-9c9a-3ef87147785a.PNG">
 </p>
  
@@ -93,11 +92,13 @@ Some names are particular (e.g., M, Arya, Daenerys and Khaleesi) and can be assu
 
 <p align="center">
   <b>Genesis of the name M</b><br>
+  <br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573853/f563a88a-2dfd-11e7-9448-a57e35a44216.PNG">
 </p>
 
 <p align="center">
   <b>Genesis of the names Arya, Daenerys and Khaleesi</b><br>
+  <br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573850/f563268a-2dfd-11e7-9429-b914516bb717.PNG">
 </p>
       
@@ -112,11 +113,13 @@ Other factors might be correlated to increasing name diversity such as new means
 
 <p align="center">
   <b>Number of different names per birth</b><br>
+  <br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573851/f563581c-2dfd-11e7-8b5d-51c4b55871cd.PNG">
 </p>
 
 <p align="center">
   <b>Percentage of births with ‘rare names’ per gender</b><br>
+  <br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573858/f57b73b6-2dfd-11e7-9ff6-abeb17c6928f.PNG">
 </p>
                       
@@ -124,11 +127,13 @@ Treemaps are yet another clear way to picture the increasing name diversity. Hal
 
 <p align="center">
   <b>Treemaps of names representing 50% of births in 1900</b><br>
+  <br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573862/f59153a2-2dfd-11e7-98c3-68864dce05e2.PNG">
 </p>
 
 <p align="center">
   <b>Treemaps of names representing 50% of births in 2015</b><br>
+  <br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573863/f592af4a-2dfd-11e7-9292-4502b741469c.PNG">
 </p>
 
@@ -139,12 +144,14 @@ In general, both male and female compound names were most popular between 1940 a
 In the following graphs each line represent at least 10,000 births overall.
 
 <p align="center">
-  <b>Trend of compound names - Males</b><br>
+  <b>Trend of compound names</b><br>
+  <br>
+  <i>Males</i>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573852/f5634642-2dfd-11e7-955e-12f577941775.PNG">
 </p>
 
 <p align="center">
-  <b>Trend of compound names - Females</b><br>
+  <i>Females</i><br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573854/f563a6aa-2dfd-11e7-97a8-fb3c27d702ba.PNG">
 </p>
 
@@ -160,6 +167,7 @@ Five-grams can help us find pairs of male/female names (e.g., Joël/Joëlle, Jac
 
 <p align="center">
   <b>Examples of parallel trends for male/female name pairs</b><br>
+  <br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573857/f57b4d0a-2dfd-11e7-84d3-ced646b6fb6b.PNG">
 </p>
  
@@ -167,12 +175,14 @@ Five-grams can help us find pairs of male/female names (e.g., Joël/Joëlle, Jac
 The top 15 names in 2015 comprised both ‘old’ names becoming popular again (e.g., Louis, Paul, Jules for males and Louise, Alice, Lucie for females), and ‘recent’ names (e.g., Lucas, Adam, Hugo for males, and Jade, Lina, Lola for female).
 
 <p align="center">
-  <b>Top 15 female names in 2015 - Old names becoming popular again</b><br>
+  <b>Top 15 female names in 2015</b><br>
+  <br>
+  <i>Old names becoming popular again</i><br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573548/5346a888-2dfb-11e7-82b5-dc94f73128f8.PNG">
 </p>
 
 <p align="center">
-  <b>Top 15 female names in 2015 - 'Recent' names</b><br>
+  <i>'Recent' names</i><br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573857/f57b4d0a-2dfd-11e7-84d3-ced646b6fb6b.PNG">
 </p>
  
@@ -181,6 +191,7 @@ The mean name length went from 6.3 letters in 1910 to 7.1 in 1970 and 5.5 in 201
 
 <p align="center">
   <b>Evolution of mean name length (weighted average by number of births)</b><br>
+  <br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573859/f57bb9fc-2dfd-11e7-847d-fda19f3ade66.PNG">
 </p>
  
