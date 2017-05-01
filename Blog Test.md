@@ -45,7 +45,9 @@ We can use the data to estimate the annual number of births in France between 19
 - a dip in the number of births during WWII
 - the Baby Boom after WWII, from 592,000 births in 1945 up to 893,000 in 1947 (+51% in 2 years)!
 
-The diminution in birth rate is indeed another consequence of wars which dramatically affects demography. Note that WWI was far more devastating to France than WWII both in terms of number of births and deaths. The country lost about 600k soldiers and civilians in WWII but 1.7 million in WWI. In the overall conflicts however, there were 3-4 times more losses in WWII (60-80M) than in WWI (19M). 
+The diminution in birth rate is indeed another consequence of wars which dramatically affects demography. 
+
+Note that WWI was far more devastating to France than WWII both in terms of number of births and deaths. The country lost about 600k soldiers and civilians in WWII but 1.7 million in WWI. In the overall conflicts however, there were 3-4 times more losses in WWII (60-80M) than in WWI (19M). 
 
 <p align="center">
   <b>Number of births per year</b><br>
@@ -129,7 +131,7 @@ Other factors might be correlated to increasing name diversity such as new means
 Treemaps are yet another clear way to picture the increasing name diversity. Half of the people born in 1900 had one of 28 names, vs. 297 in 2015. Similarly, the top 20 names represented 43% of total births in 1900 but only 11% in 2015.
 
 <p align="center">
-  <b>Treemaps of names representing 50% of births in 1900</b><br>
+  <b>Treemaps of names representing 50% of births</b><br>
   <br>
   <i>In 1900</i><br>
   <img src="https://cloud.githubusercontent.com/assets/25837658/25573862/f59153a2-2dfd-11e7-98c3-68864dce05e2.PNG">
@@ -159,7 +161,7 @@ In the following graphs each line represent at least 10,000 births overall.
 </p>
 
   
-Interestingly, we can observe common trends for other types of names (data not included, see Jupyter notebook):
+Interestingly, we can observe common trends for other types of names (data not included, see Jupyter [notebook](https://github.com/domptail/French-Names/blob/master/French%20Names%20from%201900%20to%202015.ipynb)):
 - Names ending in -ETTE (e.g., Paulette, Yvette, Odette, Colette) were most popular in 1920-1940.
 - Names ending in -IANE (e.g., Christiane, Josiane, Liliane) were most popular in 1940-1960.
 - Names containing 'CLAUD' (e.g., Claude, Jean-Claude, Claudine) were most popular in 1930-1960.
