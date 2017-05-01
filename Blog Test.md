@@ -44,7 +44,9 @@ We can use the data to estimate the annual number of births in France between 19
 
 The diminution in birth rate is indeed another consequence of wars which dramatically affects demography. Note that WWI was far more devastating to France than WWII both in terms of number of births and deaths. The country lost about 600k soldiers and civilians in WWII but 1.7 million in WWI. In the overall conflicts however, there were 3-4 times more losses in WWII (60-80M) than in WWI (19M). 
 
+<center>
 ![Alt text](https://cloud.githubusercontent.com/assets/25837658/25573861/f5803ffe-2dfd-11e7-95a8-1f417d7102ec.PNG?raw=true "Number of births per year")
+</center>
 
 The repercussions of the two wars can be seen on the number of people named Marie and Jean, the two most given names overall throughout the century by far (2.2 million Maries and 1.9 million Jeans). We can control for the effects of the wars by calculating instead the percentage of births of the same gender these names represent each year. It is interesting to see that Marie and Jean have had very different popularity trends.
 
@@ -81,7 +83,9 @@ Some names are particular (e.g., M, Arya, Daenerys and Khaleesi) and can be assu
 ### There is increasing diversity in names
 
 The number of different names increased from 1,600 in 1900 to 12,400 in 2015! The ratio of names to births also quadrupled between 1900 (0.004) and 2015 (0.016). Another indicator of name diversity is the number of people with rare names, which jumped from 2,980 people in 1900 (0.7% of births) to 56,107 in 2015 (7.2% of births). 
+
 The increasing name diversity can be correlated to the different French ‘Naming Laws’. The Law of 1803, established under Napoléon Bonaparte, limited names to those found in calendars of saints and 'historic names'. The Law of 1966 extended the list of authorized names (e.g., mythology, regional, and foreign names). Finally, the Law of 1993 authorized almost any name, as long as it is not contrary to the interests of the child.
+
 Other factors might be correlated to increasing name diversity such as new means of communication and cultural exchanges (television, Internet), immigrations, and new spellings of the same names (homophones). However, these are out of the scope of this article.
 
 ![Alt text](https://cloud.githubusercontent.com/assets/25837658/25573851/f563581c-2dfd-11e7-8b5d-51c4b55871cd.PNG?raw=true "Number of different names per birth")              
@@ -131,7 +135,7 @@ The mean name length went from 6.3 letters in 1910 to 7.1 in 1970 and 5.5 in 201
  
 ## Additional Questions
 Below is a non-exhaustive list of other interesting topics to look into:
-•	Impact of movies: Some correlations with movies/books (characters/actors) were shown anecdotally with certain names (e.g., M, Arya, Daenerys), a more thorough analysis could be conducted using for example IMDb database.
-•	Regional specificities: A more detailed analysis could show differences/similarities between France's regions. A file with regional information is available on INSEE's website. See for example the analysis done by Le Monde.
-•	Soundex: The Soundex phonetic algorithm could be used to identify homophone names and further the analysis based on ngrams. For example, new spellings of the same names may also explain the increasing name diversity.
-•	Name periodicity: Clustering shapes of trend curves may enable us to predict lifetime and periodicity of names.
+- Impact of movies: Some correlations with movies/books (characters/actors) were shown anecdotally with certain names (e.g., M, Arya, Daenerys), a more thorough analysis could be conducted using for example IMDb database.
+- Regional specificities: A more detailed analysis could show differences/similarities between France's regions. A file with regional information is available on INSEE's website. See for example the analysis done by Le Monde.
+- Soundex: The Soundex phonetic algorithm could be used to identify homophone names and further the analysis based on ngrams. For example, new spellings of the same names may also explain the increasing name diversity.
+- Name periodicity: Clustering shapes of trend curves may enable us to predict lifetime and periodicity of names.
